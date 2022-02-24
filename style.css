@@ -1,0 +1,62 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  width: 50%;
+  margin: 0 auto;
+}
+input[type='text'] {
+  display: block;
+  margin: 0 auto;
+}
+.search-box {
+  background: #eee;
+}
+.search-box p {
+  margin: 0;
+}
+
+.special-section {
+  width: 1200px;
+  margin: 1px auto;
+}
+
+.special-section article {
+  margin: 1px;
+}
+
+.special-searches {
+  background: #7ee5da;
+  float: left;
+  width: 37%;
+  padding: 10px 0px;
+}
+
+.special-section .info-searches {
+  float: left;
+  font-size: small;
+  width: 20%;
+  background: #70ccc2;
+  padding: 5px 0px;
+}
+
+.special-section .subscribe-searches {
+  float: left;
+  width: 42.5%;
+  background: #62b3aa;
+  font-size: small;
+}
+
+.subscribe-searches .archive-btn {
+  margin-left: 10px;
+}
+
+.copy {
+  position: relative;
+  font-size: small;
+  padding-top: 60px;
+  height: 60px;
+}
